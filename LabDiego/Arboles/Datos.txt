@@ -1,0 +1,19 @@
+102260430,706001,1,20240703,05706,CARLOS MANUEL                 ,AZOFEIFA                  ,PORRAS                    
+102260431,606034,2,20280207,04995,EDELMIRA                      ,NOBOA                     ,JIMENEZ                   
+202260432,606036,1,20220716,05011,AMANCIO                       ,ACOSTA                    ,JIMENEZ                   
+202260438,303017,1,20210816,03269,VICTOR                        ,BERMUDEZ                  ,ELIZONDO                  
+302260446,303002,2,20231024,03193,HILDA MARIA                   ,TORRES                    ,ALVARADO                  
+402260453,108001,2,20260223,00871,MAYRA                         ,SUAREZ                    ,MONTERO                   
+502260454,115003,2,20260202,01393,ANA ISABEL                    ,ARIAS                     ,ARIAS                     
+602260458,108005,1,20241009,00913,OSCAR                         ,ZARATE                    ,LOPEZ                     
+702260459,115001,2,20200721,01366,ROXANA                        ,ESQUIVEL                  ,SALAZAR                   
+302260465,108004,2,20230226,00891,CARMEN MARIA                  ,SANCHEZ                   ,NUÑEZ                     
+402260467,305014,1,20261214,03342,DOMICIANO                     ,FLORES                    ,CHACON                    
+102260468,108001,2,20270307,00858,MARIA ISABEL                  ,GUEVARA                   ,UMAÑA                     
+202260473,119026,1,20240523,01704,EVANGELISTA                   ,ROJAS                     ,CHINCHILL            
+302260480,107014,1,20201127,00845,ABEL JOSE                     ,HERNANDEZ                 ,SERRANO                   
+102260482,107001,2,20280207,00817,MARIA ELA                     ,UREÑA                     ,TENORIO                   
+402260483,108001,2,20240827,00849,OLGA                          ,BARQUERO                  ,ESQUIVEL                  
+502260487,104001,2,20201007,00647,MARIA AUXILIADORA             ,ALPIZAR                   ,GUERRERO                  
+102260491,101002,1,20280510,00086,JUAN JOSE                     ,OVARES                    ,OVARES                    
+102260495,701019,2,20300204,05306,NORMA                         ,GONZALEZ                  ,VILLEGAS                  
